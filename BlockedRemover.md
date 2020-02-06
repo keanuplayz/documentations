@@ -12,6 +12,8 @@ First up is the installation of BandagedBetterDiscord.
 ## Installation of RemoveBlockedMessages
 Next up is the installation of the plugin.
 
-1. Download the plugin [on my website](https://keanu-code.netlify.com/files/RemoveBlockedMessages.plugin.js).
+1. Download the plugin [on my website](https://keanu-code.netlify.com/software/software) and click `RemoveBlockedMessages`.
 2. Move the plugin file from your Downloads folder to `C:\Users\<username>\AppData\Roaming\BetterDiscord\plugins`
-3. You're set!
+3. You (should) be set!
+
+Notice: If you are not set, or the plugin doesn't work, please contact `Keanu#2811`.
