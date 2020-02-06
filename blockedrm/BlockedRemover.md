@@ -17,3 +17,6 @@ Next up is the installation of the plugin.
 3. You (should) be set!
 
 Notice: If you are not set, or the plugin doesn't work, please contact `Keanu#2811`.
+
+### License
+This plugin is licensed under the [Apache 2.0 License]
