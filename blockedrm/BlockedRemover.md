@@ -16,7 +16,9 @@ Next up is the installation of the plugin.
 2. Move the plugin file from your Downloads folder to `C:\Users\<username>\AppData\Roaming\BetterDiscord\plugins`
 3. You (should) be set!
 
-Notice: If you are not set, or the plugin doesn't work, please contact `Keanu#2811`.
+Notice: If you believe are not set, or the plugin doesn't work, please contact `Keanu#2811`.
+
+---
 
 ### License
 This plugin is licensed under the [Apache License 2.0](https://github.com/keanuplayz/documentations/blob/master/blockedrm/LICENSE).
