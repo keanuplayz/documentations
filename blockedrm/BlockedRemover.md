@@ -19,4 +19,4 @@ Next up is the installation of the plugin.
 Notice: If you are not set, or the plugin doesn't work, please contact `Keanu#2811`.
 
 ### License
-This plugin is licensed under the [Apache 2.0 License]
+This plugin is licensed under the [Apache License 2.0](https://github.com/keanuplayz/documentations/blob/master/blockedrm/LICENSE).
